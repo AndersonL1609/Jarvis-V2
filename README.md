@@ -82,7 +82,8 @@ __ETC..__ :
 
 <br>
 <p align="center">
-<img width="50%" src="https://i.imgur.com/O8vwV5p.png"/>
+<img width="30%" src="https://i.imgur.com/O8vwV5p.png"/>
+<img width="50%" src="https://i.imgur.com/9R4xQy8.png"/>
 </p>
 
 
